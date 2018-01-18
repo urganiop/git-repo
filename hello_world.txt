@@ -1,2 +1,3 @@
 print(hello)
 Print(everybody)
+print(lol)
