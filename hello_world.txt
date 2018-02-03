@@ -1,3 +1,3 @@
-print(hello)
-Print(everybody)
-print(lol)
+print(hello world)
+Print(hello everybody)
+
