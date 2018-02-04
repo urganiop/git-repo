@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print(hello world;)
 Print(hello everybody;)
 print(hello;)
