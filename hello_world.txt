@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 print(hello world;)
 Print(hello everybody;)
 print(hello;)
+print(hello my friend;)
+
+
